@@ -1,0 +1,25 @@
+# Runtime secrets and biometrics must never enter this repository.
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+voice-auth/
+private-state/
+phrase_config.json
+authorization_session.json
+enrollment_hashes.json
+enrollment.sha256
+*.npy
+*.npz
+*.wav
+*.ogg
+*.opus
+*.mp3
+*.m4a
+*.flac
+*.pem
+*.p8
+*.key
+*.log

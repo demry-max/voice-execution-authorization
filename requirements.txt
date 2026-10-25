@@ -1,0 +1,4 @@
+# Versions observed in the original local deployment; Apple Silicon macOS.
+mlx-whisper==0.4.3
+numpy==2.0.2
+Resemblyzer==0.1.4
